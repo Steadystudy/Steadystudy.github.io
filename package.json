@@ -1,9 +1,9 @@
 {
-  "name": "zoomkoding.com",
+  "name": "Steadystudy",
   "private": false,
-  "description": "A neat blog theme for developers",
+  "description": "Steadystudy's Blog",
   "version": "3.0.0",
-  "author": "zoomkoding <zoomkoding@gmail.com>",
+  "author": "Steadystudy <sgmin206@naver.com>",
   "dependencies": {
     "@mui/icons-material": "^5.1.0",
     "@mui/material": "^5.1.0",
@@ -57,9 +57,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zoomkoding/zoomkoding-gatsby-blog"
+    "url": "https://github.com/Steadystudy/Steadystudy.github.io"
   },
   "bugs": {
-    "url": "https://github.com/zoomkoding/zoomkoding-gatsby-blog/issues"
+    "url": "https://github.com/Steadystudy/Steadystudy.github.io/issues"
   }
 }
