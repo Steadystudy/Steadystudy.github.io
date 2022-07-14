@@ -15,7 +15,7 @@ module.exports = {
     bio: {
       role: `프론트엔드 개발자`,
       description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
-      thumbnail: 'profile.png', // Path to the image in the 'asset' folder
+      thumbnail: 'profile.jpeg', // Path to the image in the 'asset' folder
     },
     social: {
       github: `https://github.com/Steadystudy`,
@@ -43,12 +43,12 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2022.07 ~',
-        activity: '개인 블로그 개발 및 운영',
+        date: '2022.03 ~',
+        activity: '프로그래머스 데브코스 참여',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          post: '',
+          github: '',
+          demo: '',
         },
       },
     ],
@@ -78,7 +78,7 @@ module.exports = {
         techStack: ['react'],
         thumbnailUrl: '',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
+          post: '',
           github: 'https://github.com/prgrms-fe-devcourse/FEDC2_TTaBong_Dali',
           demo: 'ttabong.netlify.app/',
         },
