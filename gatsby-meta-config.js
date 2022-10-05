@@ -43,8 +43,8 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2022.03 ~',
-        activity: '프로그래머스 데브코스 참여',
+        date: '2022.03 ~ 08',
+        activity: '프로그래머스 데브코스 프론트엔드과정 2기',
         links: {
           post: '',
           github: '',
@@ -80,7 +80,19 @@ module.exports = {
         links: {
           post: '',
           github: 'https://github.com/prgrms-fe-devcourse/FEDC2_TTaBong_Dali',
-          demo: 'ttabong.netlify.app/',
+          demo: 'https://ttabong.netlify.app/',
+        },
+      },
+      {
+        title: '링북',
+        description:
+          '프로그래머스 데브코스에서 진행한 두번째 팀 프로젝트입니다.',
+        techStack: ['next', 'typescript'],
+        thumbnailUrl: '',
+        links: {
+          post: '',
+          github: '',
+          demo: '',
         },
       },
     ],
