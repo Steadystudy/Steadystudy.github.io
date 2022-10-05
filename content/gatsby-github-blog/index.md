@@ -1,10 +1,10 @@
 ---
-emoji: 🔮
+emoji:
 title: 태스트
-date: '2022-07-13 00:00:00'
+date: '2022-10-05 00:00:00'
 author: Steadystudy
 tags: 테스트
-categories: 테스트
+categories: CS공부
 ---
 
-# 테스트
+# 브라우저 렌더링
