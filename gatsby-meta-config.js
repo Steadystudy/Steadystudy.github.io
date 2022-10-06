@@ -74,8 +74,8 @@ module.exports = {
       {
         title: '따봉',
         description:
-          '프로그래머스 데브코스에서 진행한 첫 팀 프로젝트입니다.',
-        techStack: ['react'],
+          '사용자 간 칭찬 포스트를 공유하는 SNS 애플리케이션',
+        techStack: ['ReactJS','JavaScript','Git','Storybook'],
         thumbnailUrl: '',
         links: {
           post: '',
@@ -86,13 +86,13 @@ module.exports = {
       {
         title: '링북',
         description:
-          '프로그래머스 데브코스에서 진행한 두번째 팀 프로젝트입니다.',
-        techStack: ['next', 'typescript'],
+          '북마크 공유 소셜 서비스',
+        techStack: ['Next.js', 'Typescript','Git','Axios'],
         thumbnailUrl: '',
         links: {
           post: '',
-          github: '',
-          demo: '',
+          github: 'https://github.com/prgrms-web-devcourse/Team-03-LinkBook-FE',
+          demo: 'https://linkbook.tk/',
         },
       },
     ],
