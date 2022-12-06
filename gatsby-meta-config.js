@@ -6,7 +6,7 @@ module.exports = {
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `Steadystudy/Steadystudy.github.io`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
   ga: '0', // Google Analytics Tracking ID
@@ -14,7 +14,7 @@ module.exports = {
     name: `민상기`,
     bio: {
       role: `프론트엔드 개발자`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      description: ['능동적으로 일하는', '가치를 만드는'],
       thumbnail: 'profile.jpeg', // Path to the image in the 'asset' folder
     },
     social: {
@@ -73,9 +73,8 @@ module.exports = {
       // ========================================================
       {
         title: '따봉',
-        description:
-          '사용자 간 칭찬 포스트를 공유하는 SNS 애플리케이션',
-        techStack: ['ReactJS','JavaScript','Git','Storybook'],
+        description: '사용자 간 칭찬 포스트를 공유하는 SNS 애플리케이션',
+        techStack: ['ReactJS', 'JavaScript', 'Git', 'Storybook'],
         thumbnailUrl: '',
         links: {
           post: '',
@@ -85,9 +84,8 @@ module.exports = {
       },
       {
         title: '링북',
-        description:
-          '북마크 공유 소셜 서비스',
-        techStack: ['Next.js', 'Typescript','Git','Axios'],
+        description: '북마크 공유 소셜 서비스',
+        techStack: ['Next.js', 'Typescript', 'Git', 'Axios'],
         thumbnailUrl: '',
         links: {
           post: '',
